@@ -19,7 +19,7 @@ static const URL_Patch url_patches[] = {
         {0xE2282DB4, "https://ecs.wup.shop.nintendo.net/ecs/services/ECommerceSOAP"},
         {0xE22830A0, "https://ecs.wup.shop.nintendo.net/ecs/services/ECommerceSOAP"},
         {0xE22830E0, "https://nus.wup.shop.nintendo.net/nus/services/NetUpdateSOAP"},
-        {0xE2299990, "https://rvqcportal.rverse.club"},
+        {0xE2299990, "https://rv3portal.rverse.club"},
         {0xE229A600, "https://pls.wup.shop.nintendo.net/pls/upload"},
         {0xE229A6AC, "https://npvk-dev.app.nintendo.net/reports"},
         {0xE229A6D8, "https://npvk.app.nintendo.net/reports"},
@@ -36,7 +36,7 @@ static const URL_Patch url_patches[] = {
         {0xE22B3FFC, "https://nus.c.shop.nintendo.net/nus/services/NetUpdateSOAP"},
         {0xE229DE0C, "n.app.nintendo.net"},
         //nim-boss .bss
-        {0xE31930D4, "https://%s%saccount.nintendo.net/v%u/api/"}
+        {0xE31930D4, "https://%s%saccount.termy.lol/v%u/api/"}
 
 };
 
